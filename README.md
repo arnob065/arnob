@@ -1,4 +1,4 @@
-## Hi I am sikhito Arnob 👋
+## Hi I am Arnob 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
